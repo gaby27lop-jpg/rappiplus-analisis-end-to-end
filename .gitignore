@@ -1,0 +1,23 @@
+# Entornos virtuales y caché de Python
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Credenciales: nunca se suben
+.env
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+
+# Archivos temporales de Office
+~$*
